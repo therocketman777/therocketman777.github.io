@@ -7588,6 +7588,10 @@ textarea.form-control-lg {
   background-image: var(--bs-gradient) !important;
 }
 
+.bg-berkeley-blue {
+  background-color: #3B7EA1;
+}
+
 .user-select-all {
   -webkit-user-select: all !important;
      -moz-user-select: all !important;
